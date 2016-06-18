@@ -1,4 +1,4 @@
-# Xamarin Reusable Components/Code
+# Xamarin Reusable Components/Code Snippet
 
 * Xamarin Forms TextEntry with Icon (like Bootstrap inputgroup)
 * Azure Notification Hub with Baidu Push service
